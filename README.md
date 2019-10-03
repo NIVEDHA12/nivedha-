@@ -11,7 +11,7 @@ to obtain desired quantity of water using 2 known quantity of water in the jars.
 quantity of water using BFS algorithm.
 
 Implementation:
-	When you open the solution code, and then copy the code and run it in any 
+	When you open the solution code, you can copy the code and run it in any 
 online compilers i.e., Onlinegdb.com, since I have used online compilers while
 executing the same.
 
